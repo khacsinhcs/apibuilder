@@ -10,3 +10,4 @@ Fist at all, we have document for team member and for client. Frontend and backe
 
 Second, we can generate API from API Builder. We can do many automation things for system. 
 
+## Purpose
