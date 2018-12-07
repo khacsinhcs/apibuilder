@@ -15,3 +15,4 @@ Second, we can generate API from API Builder. We can do many automation things f
 * Generate SDK for client. Client can be another service (banckend) or frontend (javascript)
 * Build API automated
 * Documentation for team
+* Auto generated test for API
